@@ -1,0 +1,14 @@
+// assets/MODID/models/block/dein_block.json
+{
+    "parent": "block/cube",
+    "textures": {
+    "particle": "AppleDimension:blocks/log_wood",
+       "up": "AppleDimension:blocks/log_ender_top",
+       "down": "AppleDimension:blocks/log_ender_top",
+       "north": "AppleDimension:blocks/log_ender",
+       "south": "AppleDimension:blocks/log_ender",
+       "west": "AppleDimension:blocks/log_ender",
+       "east": "AppleDimension:blocks/log_ender"
+   
+    }
+}

@@ -1,0 +1,11 @@
+// assets/MODID/models/item/dein_block.json
+{
+    "parent": "appledimension:block/log_wood", // <--- Pfad zur Datei: assets/appledimension/models/block/appleblock.json
+    "display": {
+        "thirdperson": {
+            "rotation": [ 10, -45, 170 ],
+            "translation": [ 0, 1.5, -2.75 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    }
+}

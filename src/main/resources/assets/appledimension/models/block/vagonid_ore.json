@@ -1,0 +1,7 @@
+// assets/MODID/models/block/dein_block.json
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "AppleDimension:blocks/vagonid_ore"  // Pfad zu dieser Datei: assets/appledimension/textures/blocks/appleblock.png
+    }
+}

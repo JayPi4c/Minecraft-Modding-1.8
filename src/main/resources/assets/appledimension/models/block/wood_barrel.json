@@ -1,0 +1,14 @@
+// assets/MODID/models/block/dein_block.json
+{
+    "parent": "block/cube",
+    "textures": {
+    "particle": "AppleDimension:blocks/wood_barrel_side",
+       "up": "AppleDimension:blocks/wood_barrel_top",
+       "down": "AppleDimension:blocks/wood_barrel_bottom",
+       "north": "AppleDimension:blocks/wood_barrel_side",
+       "south": "AppleDimension:blocks/wood_barrel_side",
+       "west": "AppleDimension:blocks/wood_barrel_side",
+       "east": "AppleDimension:blocks/wood_barrel_side"
+   
+    }
+}

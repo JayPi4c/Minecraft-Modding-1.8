@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "AppleDimension:adiomantium_block" }
+    }
+}
